@@ -59,4 +59,4 @@ ChiaLoans is a beginner-friendly application that leverages blockchain technolog
 4. Metamask: Ethereum wallet and browser extension.
 5. Python 3.6: Used for additional deployment tasks.
 
-*Feel free to explore ChiaLoans and start managing loans on the blockchain! 🌟🔗
+*Feel free to explore ChiaLoans and start managing loans on the blockchain! 🔗
